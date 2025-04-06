@@ -31,7 +31,7 @@ font-weight: 700;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
         font-size: 18px;
-        line-height: 1.117;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
@@ -134,7 +134,7 @@ font-weight: 700;
     text-transform: capitalize;
 }
 .team-item {
-    background-color: #F4F4FD
+    background-color: #FFFFFF;
 }
 .team-name {
     font-weight: 500;
@@ -151,11 +151,8 @@ font-weight: 700;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.portfolio {
+.team {
     background-color: #F4F4FD;
-}
-.portfolio-list {
-    background-color: #FFFFFF;
 }
 .portfolio-title {
     font-weight: 700;
