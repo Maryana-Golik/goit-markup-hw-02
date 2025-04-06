@@ -151,7 +151,12 @@ font-weight: 700;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-
+.portfolio {
+    background-color: #F4F4FD;
+}
+.portfolio-list {
+    background-color: #FFFFFF;
+}
 .portfolio-title {
     font-weight: 700;
     font-size: 36px;
